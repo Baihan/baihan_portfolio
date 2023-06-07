@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LogisticRegression on Baihan Yang</title>
+    <link>https://baihan.github.io/baihan_portfolio/tags/logisticregression/</link>
+    <description>Recent content in LogisticRegression on Baihan Yang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://baihan.github.io/baihan_portfolio/tags/logisticregression/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Science Certification Project</title>
+      <link>https://baihan.github.io/baihan_portfolio/post/data-science-certification/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://baihan.github.io/baihan_portfolio/post/data-science-certification/</guid>
+      <description>As part of the certification for Datacamp, I had to complete a case study project for a fitness class attendance problem.
+Clean and validate a 150 rows by 8 columns dataset Analyze the data before we start modeling for class imbalance and various distributions of the features Determine type of problem and choose base model (LogisticRegression) and comparison model(RandomForestRegression) Tune my RandomFroestRegression model with a grid search and train both models on the training dataset Assess the performance of my models with the test data months as members vs.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>unsupervised learning on Baihan Yang</title>
+    <link>https://baihan.github.io/baihan_portfolio/tags/unsupervised-learning/</link>
+    <description>Recent content in unsupervised learning on Baihan Yang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://baihan.github.io/baihan_portfolio/tags/unsupervised-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Arknights Class Clustering</title>
+      <link>https://baihan.github.io/baihan_portfolio/post/project-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://baihan.github.io/baihan_portfolio/post/project-1/</guid>
+      <description>A personal project exploring the character classes in a mobile game called Arknights after learning about unsupervised learning techniques.
+Cleaned and engineered data using domain knowledge Used a pipeline to scale data and implement KMeans algorithm to classify our game characters into groups Created a T-SNE mapping to visualize our clusters and see our results Experiment with different features to see if we can improve our result Vary the amount of clusters to see if we can pick up on different feature groupings Arknights classes Link to Kaggle notebook </description>
+    </item>
+    
+  </channel>
+</rss>

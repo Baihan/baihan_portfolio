@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Baihan Yang</title>
+    <link>https://baihan.github.io/baihan_portfolio/tags/</link>
+    <description>Recent content in Tags on Baihan Yang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://baihan.github.io/baihan_portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>clustering</title>
+      <link>https://baihan.github.io/baihan_portfolio/tags/clustering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://baihan.github.io/baihan_portfolio/tags/clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dense layer</title>
+      <link>https://baihan.github.io/baihan_portfolio/tags/dense-layer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://baihan.github.io/baihan_portfolio/tags/dense-layer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>keras</title>
+      <link>https://baihan.github.io/baihan_portfolio/tags/keras/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://baihan.github.io/baihan_portfolio/tags/keras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LogisticRegression</title>
+      <link>https://baihan.github.io/baihan_portfolio/tags/logisticregression/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://baihan.github.io/baihan_portfolio/tags/logisticregression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neural network</title>
+      <link>https://baihan.github.io/baihan_portfolio/tags/neural-network/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://baihan.github.io/baihan_portfolio/tags/neural-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RandomForestRegression</title>
+      <link>https://baihan.github.io/baihan_portfolio/tags/randomforestregression/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://baihan.github.io/baihan_portfolio/tags/randomforestregression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recurrent neural network</title>
+      <link>https://baihan.github.io/baihan_portfolio/tags/recurrent-neural-network/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://baihan.github.io/baihan_portfolio/tags/recurrent-neural-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sci-kit learn</title>
+      <link>https://baihan.github.io/baihan_portfolio/tags/sci-kit-learn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://baihan.github.io/baihan_portfolio/tags/sci-kit-learn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>seaborn</title>
+      <link>https://baihan.github.io/baihan_portfolio/tags/seaborn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://baihan.github.io/baihan_portfolio/tags/seaborn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T-SNE</title>
+      <link>https://baihan.github.io/baihan_portfolio/tags/t-sne/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://baihan.github.io/baihan_portfolio/tags/t-sne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>teacher forcing</title>
+      <link>https://baihan.github.io/baihan_portfolio/tags/teacher-forcing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://baihan.github.io/baihan_portfolio/tags/teacher-forcing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>time distributed layer</title>
+      <link>https://baihan.github.io/baihan_portfolio/tags/time-distributed-layer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://baihan.github.io/baihan_portfolio/tags/time-distributed-layer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transformer</title>
+      <link>https://baihan.github.io/baihan_portfolio/tags/transformer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://baihan.github.io/baihan_portfolio/tags/transformer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>unsupervised learning</title>
+      <link>https://baihan.github.io/baihan_portfolio/tags/unsupervised-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://baihan.github.io/baihan_portfolio/tags/unsupervised-learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

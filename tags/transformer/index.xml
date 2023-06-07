@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>transformer on Baihan Yang</title>
+    <link>https://baihan.github.io/baihan_portfolio/tags/transformer/</link>
+    <description>Recent content in transformer on Baihan Yang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://baihan.github.io/baihan_portfolio/tags/transformer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Next Project: Chinese to English Neural Network</title>
+      <link>https://baihan.github.io/baihan_portfolio/post/project-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://baihan.github.io/baihan_portfolio/post/project-3/</guid>
+      <description>In my free time, I do some chinese to english translations for LEMCNSUN on their game Soultide so I was interested in designing a machine learning algorithm that can complete this task. Of course, I have limited processing power with only my laptop and lack of data but it would be cool to tackle these problems and do a proof of concept.
+To accomplish this task I hope to:
+Find or scrape quality data from the web Look into implementing a transformer for higher quality model Find a good word/character embedding for chinese or create my own with machine learning Experiment with more complex model architecture.</description>
+    </item>
+    
+  </channel>
+</rss>

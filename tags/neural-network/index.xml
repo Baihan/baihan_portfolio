@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>neural network on Baihan Yang</title>
+    <link>https://baihan.github.io/baihan_portfolio/tags/neural-network/</link>
+    <description>Recent content in neural network on Baihan Yang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://baihan.github.io/baihan_portfolio/tags/neural-network/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Next Project: Chinese to English Neural Network</title>
+      <link>https://baihan.github.io/baihan_portfolio/post/project-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://baihan.github.io/baihan_portfolio/post/project-3/</guid>
+      <description>In my free time, I do some chinese to english translations for LEMCNSUN on their game Soultide so I was interested in designing a machine learning algorithm that can complete this task. Of course, I have limited processing power with only my laptop and lack of data but it would be cool to tackle these problems and do a proof of concept.
+To accomplish this task I hope to:
+Find or scrape quality data from the web Look into implementing a transformer for higher quality model Find a good word/character embedding for chinese or create my own with machine learning Experiment with more complex model architecture.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Machine Translation</title>
+      <link>https://baihan.github.io/baihan_portfolio/post/project-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://baihan.github.io/baihan_portfolio/post/project-2/</guid>
+      <description>A project to get me started with machine translation for a personal project that I want to work on later. In this project, we want to train a neural network to translate from english words to french words using a recurrent encoder-decoder structure and then feed it into a time-distributed dense layer.
+Create an embedding from english words to tensors Feed into an encoder (GRU network) Pass encoded vector to decoder and train network using teacher forcing (correct the output as it is generated word by word) Copy the weights of the decoder after training to create the final model.</description>
+    </item>
+    
+  </channel>
+</rss>

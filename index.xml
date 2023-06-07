@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Baihan&#39;s Data Science Portfolio on Baihan Yang</title>
+    <link>https://baihan.github.io/baihan_portfolio/</link>
+    <description>Recent content in Baihan&#39;s Data Science Portfolio on Baihan Yang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://baihan.github.io/baihan_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://baihan.github.io/baihan_portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://baihan.github.io/baihan_portfolio/about/</guid>
+      <description>I have a great passion for numbers and an obsession for figuring out how things work. With all the big breakthroughs in the world of Artificial Intelligence, I feel like we are on the cusp of a new era and I want to be apart of it. The capabilities of neural networks really facinates me and I am aspiring to do more in the field of machine learning. I have a strong background in mathematics and my many years of teaching has taught me to understand my audience when I have to give a lecture or communicate ideas with others.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://baihan.github.io/baihan_portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://baihan.github.io/baihan_portfolio/contact/</guid>
+      <description>Feel free to contact me through email or follow me on these platforms.
+Platform URL Email: baihan1993@gmail.com Kaggle: https://www.kaggle.com/baihan LinkedIn: https://www.linkedin.com/in/baihan-yang-b8848722b/ GitHub: https://github.com/Baihan/Projects </description>
+    </item>
+    
+    <item>
+      <title>Data Science Certification Project</title>
+      <link>https://baihan.github.io/baihan_portfolio/post/data-science-certification/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://baihan.github.io/baihan_portfolio/post/data-science-certification/</guid>
+      <description>As part of the certification for Datacamp, I had to complete a case study project for a fitness class attendance problem.
+Clean and validate a 150 rows by 8 columns dataset Analyze the data before we start modeling for class imbalance and various distributions of the features Determine type of problem and choose base model (LogisticRegression) and comparison model(RandomForestRegression) Tune my RandomFroestRegression model with a grid search and train both models on the training dataset Assess the performance of my models with the test data months as members vs.</description>
+    </item>
+    
+    <item>
+      <title>Next Project: Chinese to English Neural Network</title>
+      <link>https://baihan.github.io/baihan_portfolio/post/project-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://baihan.github.io/baihan_portfolio/post/project-3/</guid>
+      <description>In my free time, I do some chinese to english translations for LEMCNSUN on their game Soultide so I was interested in designing a machine learning algorithm that can complete this task. Of course, I have limited processing power with only my laptop and lack of data but it would be cool to tackle these problems and do a proof of concept.
+To accomplish this task I hope to:
+Find or scrape quality data from the web Look into implementing a transformer for higher quality model Find a good word/character embedding for chinese or create my own with machine learning Experiment with more complex model architecture.</description>
+    </item>
+    
+    <item>
+      <title>Other past projects</title>
+      <link>https://baihan.github.io/baihan_portfolio/post/other-projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://baihan.github.io/baihan_portfolio/post/other-projects/</guid>
+      <description>training vs testing A simple project looking at convergence of model based number of neighbors. Link to Github
+LinReg plot A simple linear regression project looking at advertising vs sales. Link to Github
+LinReg plot The classic Titanic model that everyone has worked on when starting data science. Link to Kaggle
+Other Misc. Projects</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Arknights Class Clustering</title>
+      <link>https://baihan.github.io/baihan_portfolio/post/project-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://baihan.github.io/baihan_portfolio/post/project-1/</guid>
+      <description>A personal project exploring the character classes in a mobile game called Arknights after learning about unsupervised learning techniques.
+Cleaned and engineered data using domain knowledge Used a pipeline to scale data and implement KMeans algorithm to classify our game characters into groups Created a T-SNE mapping to visualize our clusters and see our results Experiment with different features to see if we can improve our result Vary the amount of clusters to see if we can pick up on different feature groupings Arknights classes Link to Kaggle notebook </description>
+    </item>
+    
+    <item>
+      <title>Project 2: Machine Translation</title>
+      <link>https://baihan.github.io/baihan_portfolio/post/project-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://baihan.github.io/baihan_portfolio/post/project-2/</guid>
+      <description>A project to get me started with machine translation for a personal project that I want to work on later. In this project, we want to train a neural network to translate from english words to french words using a recurrent encoder-decoder structure and then feed it into a time-distributed dense layer.
+Create an embedding from english words to tensors Feed into an encoder (GRU network) Pass encoded vector to decoder and train network using teacher forcing (correct the output as it is generated word by word) Copy the weights of the decoder after training to create the final model.</description>
+    </item>
+    
+  </channel>
+</rss>
